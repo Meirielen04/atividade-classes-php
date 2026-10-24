@@ -1,0 +1,15 @@
+{
+    "name": "meiri/ex2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meirielen",
+            "email": "meirielendasilva4@gmail.com"
+        }
+    ],
+    "require": {}
+}
